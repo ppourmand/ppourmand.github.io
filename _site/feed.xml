@@ -1,1 +1,66 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-08-22T10:29:28-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pasha Pourmand</title><entry><title type="html">New personal site!</title><link href="http://localhost:4000/2024/08/22/welcome-to-my-website/" rel="alternate" type="text/html" title="New personal site!" /><published>2024-08-22T00:00:00-07:00</published><updated>2024-08-22T00:00:00-07:00</updated><id>http://localhost:4000/2024/08/22/welcome-to-my-website</id><content type="html" xml:base="http://localhost:4000/2024/08/22/welcome-to-my-website/"><![CDATA[<p>I finally updated my github pages website from.. 10 years ago? I’ll be using this site more to write about stuff I’m working on (like <a href="https://apps.apple.com/us/app/skydroplet-weather-forecast/id6479719868">SkyDroplet</a>) or stuff I’m learning about. If you’re just interested in my experience, you can check out the <code class="language-plaintext highlighter-rouge">About</code> page in the header or just <a href="/about">click here</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[I finally updated my github pages website from.. 10 years ago? I’ll be using this site more to write about stuff I’m working on (like SkyDroplet) or stuff I’m learning about. If you’re just interested in my experience, you can check out the About page in the header or just click here]]></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <generator uri="http://jekyllrb.com" version="3.10.0">Jekyll</generator>
+  
+  
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2024-08-26T15:16:14-07:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">Pasha Pourmand</title>
+  
+
+  
+
+  
+    <author>
+        <name>Pasha</name>
+      
+      
+    </author>
+  
+
+  
+  
+    <entry>
+      
+      <title type="html">New site!</title>
+      
+      
+      <link href="http://localhost:4000/2024/08/22/welcome-to-my-website/" rel="alternate" type="text/html" title="New site!" />
+      
+      <published>2024-08-22T00:00:00-07:00</published>
+      <updated>2024-08-22T00:00:00-07:00</updated>
+      <id>http://localhost:4000/2024/08/22/welcome-to-my-website</id>
+      <content type="html" xml:base="http://localhost:4000/2024/08/22/welcome-to-my-website/">&lt;p&gt;I finally updated my github pages website from.. 10 years ago? I’ll be using this site more to write about stuff I’m working on (like &lt;a href=&quot;https://apps.apple.com/us/app/skydroplet-weather-forecast/id6479719868&quot;&gt;SkyDroplet&lt;/a&gt;) or stuff I’m learning about. If you’re just interested in my experience, you can check out the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;About&lt;/code&gt; page in the header or just &lt;a href=&quot;/about&quot;&gt;click here&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Pasha</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+
+      
+        <summary type="html">I finally updated my github pages website from.. 10 years ago? I’ll be using this site more to write about stuff I’m working on (like SkyDroplet) or stuff I’m learning about. If you’re just interested in my experience, you can check out the About page in the header or just click here</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+</feed>
