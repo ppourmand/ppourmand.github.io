@@ -32,7 +32,7 @@ I checked all my detectors, and it turns out they were _recalled in 2014_. Guess
 
 Kidde changed their connector! For ????? reasons! The way around this is to either rewire the connection or purchase their converter dongle. I opted for the converter because electrical work scares the absolute shite out of me. For $5 a pop, I now had the correct connections.
 
-Great now we need to figure out what detector we should get. Lets check out the [guide Kidde gives us](https://www.kidde.com/home-safety/en/us/support/help-center/browse-articles/articles/kidde_alarms_cross_reference_table_upgraded_models.html). Hm, it says we should replace with a `900-CUAR` model but that model, according to the online reviews, its legit terrible. 
+Great now we need to figure out what detector we should get. Lets check out the [guide Kidde gives us](https://www.kidde.com/home-safety/en/us/support/help-center/browse-articles/articles/kidde_alarms_cross_reference_table_upgraded_models.html). Hm, it says we should replace with a `900-CUAR` model but that model, according to the online reviews, is legit terrible. 
 
 Okay, so can I just replace it with whatever? Why should I be restricted to just this model? Is this even the newest model?
 
