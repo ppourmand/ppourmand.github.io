@@ -5,7 +5,7 @@
   
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2024-08-26T15:16:14-07:00</updated>
+  <updated>2025-02-19T21:00:50-08:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -22,6 +22,103 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Replacing Smoke Detectors is Kinda Dumb but Let’s Talk About It</title>
+      
+      
+      <link href="http://localhost:4000/2025/02/19/smoke-detector-replacement/" rel="alternate" type="text/html" title="Replacing Smoke Detectors is Kinda Dumb but Let&apos;s Talk About It" />
+      
+      <published>2025-02-19T00:00:00-08:00</published>
+      <updated>2025-02-19T00:00:00-08:00</updated>
+      <id>http://localhost:4000/2025/02/19/smoke-detector-replacement</id>
+      <content type="html" xml:base="http://localhost:4000/2025/02/19/smoke-detector-replacement/">&lt;p&gt;Recently, one of my combination smoke and carbon monoxide detectors beeped at me. I thought it was just the usual yearly replace-the-backup-battery situation. NOPE. Turns out, it had actually been 10 years since they were installed. AND the particular model was recalled! Thus began my deep dive into the rabbit hole that is residential smoke and carbon monoxide detectors.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h3&gt;What the Hell Are You Talking About?&lt;/h3&gt;
+&lt;p&gt;There are a bunch of options when it comes to detectors, and each house is probably slightly different. If you’re in a newer building (say, built in 2014 or later), there’s a higher chance that your setup is the same as mine.&lt;/p&gt;
+
+&lt;p&gt;Newer buildings typically have hardwired detectors, meaning they’re powered by your house’s electrical system and rely on a backup battery for when the primary power fails (e.g., during a storm outage). Additionally, they will hopefully be on their own circuit, so you can check your breaker panel and figure out which switch controls them. Mine is labeled &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Fire Bell&lt;/code&gt;, but it could be anything.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, the lifetime of a detector is 10 years. Once that’s up, you have to throw them out. And by “throw them out” I mean using special hazardous waste pickup/drop-off services provided by your municipality because you &lt;strong&gt;CANNOT&lt;/strong&gt; throw these in the regular trash. To check if yours are expired, look on the back of the unit for the manufacture date. If your builder was nice, they might have written the installation date on the side in pen. Mine were not.&lt;/p&gt;
+
+&lt;h3&gt;What Systems Are There?&lt;/h3&gt;
+&lt;p&gt;There are a few possible configurations you may have, depending on your home:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hardwired with replaceable battery backup
+    &lt;ul&gt;
+      &lt;li&gt;Batteries need to be replaced every year&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hardwired with non-replaceable battery backup
+    &lt;ul&gt;
+      &lt;li&gt;No battery replacements needed, but you have to replace the entire unit after 10 years&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Battery powered, no wires&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Additionally, detectors can be “connected” to each other, either wirelessly or via wiring, depending on the model. Connected detectors mean that if one goes off, they all go off. You can also get fancy models with app connectivity and smart features, but I’m not a fan of adding &lt;em&gt;more&lt;/em&gt; tech to my life, so I completely ignored those.&lt;/p&gt;
+
+&lt;p&gt;For me, I had connected, hardwired detectors with replaceable batteries. Annoyingly, I needed to replace those batteries every year – some took 9V, some took AA. My builder was clearly a model of consistency.&lt;/p&gt;
+
+&lt;h3&gt;So What Did You Do?&lt;/h3&gt;
+&lt;p&gt;I checked all my detectors, and it turns out they were &lt;em&gt;recalled in 2014&lt;/em&gt;. Guess when the manufacture date was? &lt;em&gt;Also 2014&lt;/em&gt;. Fantastic. Anyway, I had a bunch of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Kidde KN-COSM-ISB&lt;/code&gt; units. So, theoretically, the easiest way to fix this problem would be to get the latest model from Kidde, right? WRONG. Well, sorta.&lt;/p&gt;
+
+&lt;p&gt;Kidde changed their connector! For ????? reasons! The way around this is to either rewire the connection or purchase their converter dongle. I opted for the converter because electrical work scares the absolute shite out of me. For $5 a pop, I now had the correct connections.&lt;/p&gt;
+
+&lt;p&gt;Great now we need to figure out what detector we should get. Lets check out the &lt;a href=&quot;https://www.kidde.com/home-safety/en/us/support/help-center/browse-articles/articles/kidde_alarms_cross_reference_table_upgraded_models.html&quot;&gt;guide Kidde gives us&lt;/a&gt;. Hm, it says we should replace with a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;900-CUAR&lt;/code&gt; model but that model, according to the online reviews, its legit terrible.&lt;/p&gt;
+
+&lt;p&gt;Okay, so can I just replace it with whatever? Why should I be restricted to just this model? Is this even the newest model?&lt;/p&gt;
+
+&lt;p&gt;Turns out, no, it’s &lt;em&gt;not&lt;/em&gt; the newest model, and no, I don’t have to limit myself to what’s in their guide. Also, the guide is outdated. Sigh.&lt;/p&gt;
+
+&lt;p&gt;I decided to get the &lt;a href=&quot;https://www.kidde.com/home-safety/en/us/products/fire-safety/detect-products/detect-combination-smoke-carbon-monoxide-alarm-hardwired-with-10-year-backup-battery-with-voice-alerts-30CUA10-V/&quot;&gt;latest non-smart version of their detectors&lt;/a&gt; which also had a voice function (it yells the reason for the alarm in addition to the siren). I also opted for the 10-year battery backup since changing batteries every year was annoying, and I’d have to replace the detector in 10 years anyway.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Side Note&lt;/strong&gt;: You could probably go with any brand. I stuck with Kidde because it made using the plug converter easier, but if you’re comfortable with minor electrical work, feel free to pick another brand.&lt;/p&gt;
+
+&lt;p&gt;Here’s a list of steps after all my stuff arrived:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;turn off breaker (safety)&lt;/li&gt;
+  &lt;li&gt;remove all backup batteries from old detectors&lt;/li&gt;
+  &lt;li&gt;remove all old detectors&lt;/li&gt;
+  &lt;li&gt;install the convertors&lt;/li&gt;
+  &lt;li&gt;plug in new detectors&lt;/li&gt;
+  &lt;li&gt;throw breaker back on&lt;/li&gt;
+  &lt;li&gt;done&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thus concluded my several-day journey into learning about smoke and carbon monoxide detectors. What a ride.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Pasha</name>
+          
+          
+        </author>
+      
+
+      
+
+      
+
+      
+        <summary type="html">Recently, one of my combination smoke and carbon monoxide detectors beeped at me. I thought it was just the usual yearly replace-the-backup-battery situation. NOPE. Turns out, it had actually been 10 years since they were installed. AND the particular model was recalled! Thus began my deep dive into the rabbit hole that is residential smoke and carbon monoxide detectors.</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
