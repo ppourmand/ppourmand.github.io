@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Hi there! My name is Pasha and I'm a software engineer with experience in both DevOps and iOS development. I'm currently searching for opportunities as an iOS developer so if it feels like a good fit, please reach out! You can browse my ios-specific resume [here](/static/pasha-pourmand-ios-resume.pdf) or I've listed out my _full_ experience below.
+Hi there! My name is Pasha and I'm a software engineer with experience in both DevOps and iOS development. I'm currently working as a contractor at Karl Storz, specifically on the DevOps team. I'm always open to new opportunities, so if my experience piques your interest feel free to reach out!
 
 Check out my apps [SkyDroplet](https://apps.apple.com/us/app/skydroplet-weather-forecast/id6479719868) or [EasyCongress](https://apps.apple.com/us/app/easy-congress/id1522413054) on the Apple Appstore.
 
-
 ## Work Experience
+### Karl Storz (contract) (2025 - present)
+- Migrated Mend security scanning tool from shared Groovy library to a containerized implementation, enabling product teams to integrate vulnerability scanning as a stage in the build pipelines seamlessly
+- Improved CI/CD reliability by refactoring complex Jenkins pipelines and resolving downstream status propagation errors, significantly reducing false-failure alerts and developer friction
+- Ensured data integrity across Grafana dashboards by resolving InfluxDB pipeline lag and refactoring inefficient queries, providing leadership and engineering teams with reliable, real-time performance metrics
+
 ### NortonLifelock (2017 - 2023)
 #### iOS Team (2021 - 2023)
 - Isolated features from the Norton Security iOS application into distinct frameworks, allowing for
