@@ -6,7 +6,7 @@ date:   2026-03-11
 
 When I got laid off from Norton in 2023 I had no idea the insane experience I was about to go through. 
 
-This is a collection of stories from my experience going through the interview process for 10+ companies and serves as illustration as to why my opinion on company hiring practices is basically in hell.
+This is a collection of stories from my experience going through the interview process for a bunch of companies and serves as illustration as to why my opinion on company hiring practices is basically in hell.
 
 <!-- more -->
 
