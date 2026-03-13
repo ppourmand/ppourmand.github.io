@@ -2,6 +2,7 @@
 layout: post
 title:  "Tech Interviewing Bums Me Out"
 date:   2026-03-11
+keywords: tech, interviewing, layoffs
 ---
 
 When I got laid off from Norton in 2023 I had no idea the insane experience I was about to go through. 
