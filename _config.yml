@@ -24,7 +24,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "ppourmand.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-remote_theme: yous/whiteglass
+remote_theme: poole/lanyon
 plugins:
   - jekyll-archives
   - jekyll-paginate
